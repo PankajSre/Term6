@@ -1,0 +1,30 @@
+Information about Platforms[Android, IOS and Windows]
+
+Wireframe[Structure]
+
+Steps to create the design of an App
+
+Cordova and its event lifecycle
+
+PhoneGap
+
+Github
+
+1. Open Github.com and create an Account
+2. Verify account
+3. create a Repository on the Github
+4. Install Github in your Machine
+5. Clone the Remote Repository in the Local Machine
+    $ git clone <git-repository-address>
+	$ git clone https://github.com/PankajSre/term6online.git
+6   $ cd <repository-name>	
+7. Check the Status of the Files
+   $ git status[To check the newly added file and modified files]
+8. Add the newly added and modified files in the repository
+
+    $ git add .|*
+9. Commit the changed to the local git
+   $ git commit -m "Added one file and modified .gitignore"
+   
+10. Push the repository on the Github
+    $ git push
